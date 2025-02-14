@@ -1,2 +1,3 @@
 memory-profiler==0.61.0
+emoji==2.2.0
 pyspark==3.4.1
