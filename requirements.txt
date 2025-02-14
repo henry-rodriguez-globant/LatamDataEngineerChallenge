@@ -1,4 +1,5 @@
 memory-profiler==0.61.0
 emoji==2.2.0
+py-spy==0.3.12
 pyspark==3.4.1
 apache-beam[gcp]==2.46.0
